@@ -1,11 +1,11 @@
-###designtech.io
+#designtech.io
 
 Project file for designtech toolbar and definitions
 
-#Contributors
+##Contributors
 This repository is currently managed and maintained by the team at designtech.io
 
-#Help
+##Help
 If you're interested in contributing, just submit a [pull request]
 
-#Thank you!
+##Thank you!
